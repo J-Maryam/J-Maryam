@@ -38,8 +38,7 @@ Welcome to my GitHub profile. 🌟 I am a passionate developer and a constant le
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Maryam&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Maryam&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Maryam&show_icons=true&theme=tokyonight)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Maryam&layout=compact&theme=tokyonight)
 
 ---
 
