@@ -38,17 +38,7 @@ Welcome to my GitHub profile. 🌟 I am a passionate developer and a constant le
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Maryam&show_icons=true&theme=tokyonight)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Maryam&layout=compact&theme=tokyonight)
-
----
-
-## 📂 **Highlighted Projects**
-
-| 📌 Project Name                                           | 🚀 Description | 🌟 Tech Stack |
-|-----------------------------------------------------------|----------------|---------------|
-| **[Citronix](https://github.com/YourRepo/EcoMove)**       | Ticket booking system for travelers. | Java, Spring Boot, PostgreSQL |
-| **[YouQuiz](https://github.com/YourRepo/JourneyPlanner)** | Route optimization using Dijkstra's Algorithm. | Java, Graph Theory, Algorithms |
-| **[WRM](https://github.com/YourRepo/Portfolio)**          | Portfolio website showcasing my work. | HTML, CSS, JavaScript |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Maryam&show_icons=true&theme=tokyonight)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Maryam&layout=compact&theme=tokyonight)
 
 ---
 
